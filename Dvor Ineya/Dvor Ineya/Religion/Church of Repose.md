@@ -1,1 +1,0 @@
-The organized religion worshipping Our [[Lady of Dormition]]. 

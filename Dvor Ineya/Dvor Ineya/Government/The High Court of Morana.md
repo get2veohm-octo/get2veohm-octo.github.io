@@ -1,1 +1,0 @@
-Named after its creator, the first Tsaritsa [[Morana]]

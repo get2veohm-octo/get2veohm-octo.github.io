@@ -1,1 +1,0 @@
-The most significant province of Dvor Ineya. It derives its name from the nation's capital city, [[Kholodhnograd (City)]].
