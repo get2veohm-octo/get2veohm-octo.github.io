@@ -1,0 +1,1 @@
+Composed of the highest ranking archbishops of the [[Church of Repose]], the Ecclesiarchy pushes to maintain proper piety towards the [[Lady of Dormition]] within the land. 

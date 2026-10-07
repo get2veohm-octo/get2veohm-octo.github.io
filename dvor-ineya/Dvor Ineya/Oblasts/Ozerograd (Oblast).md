@@ -1,0 +1,1 @@
+The smallest oblast, known primarily for the provincial capital--[[Ozerograd (City)]]--from which it gets its name. 

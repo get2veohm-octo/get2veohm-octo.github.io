@@ -1,0 +1,1 @@
+The current [[Lunnaya Tsaritsa]] of Dvor Ineya. She was responsible for rebuilding the nation after the [[Calamity]] and finally breached the nation's isolation during the [[Enlightenment]].

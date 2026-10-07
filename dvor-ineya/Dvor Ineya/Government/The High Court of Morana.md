@@ -1,0 +1,1 @@
+Named after its creator, the first Tsaritsa [[Morana]]. Overseen by [[Grand Magistrate Alyosha Prigovor]], the High Court of Morana serves as the highest judiciary authority in the land.

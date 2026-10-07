@@ -1,0 +1,1 @@
+Used in the cores of the [[Lightkeepers]]' lanterns, smertkristall is uniquely attuned to the energy of souls. By "charging" the crystal, lost souls can be bound to them and later released.

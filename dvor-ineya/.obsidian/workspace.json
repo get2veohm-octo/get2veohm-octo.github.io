@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "85b89f80fb8dc5f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "098bf32b01367019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cfbb36f59f8219f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dvor Ineya/Dvor Ineya, the Unseelie Court of Frost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dvor Ineya, the Unseelie Court of Frost"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a680b25ca299b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5c5cea7e273f0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9648038439c4f208",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e103e51fa383b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f9368605b71179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8a2229e7014e078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2f174c71260a510",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2c6a84ed16e6ff2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c422c2e0e3360d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e5131017079039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e211f11ca3f7978",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fey Enclaves/The Ledyanoy Veche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "423ce7674f76b06e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6ecef9a0c0e06186",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ddd2019e004848f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9fb5c3d34da863fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "2cfbb36f59f8219f",
+  "lastOpenFiles": [
+    "Dvor Ineya/Dvor Ineya, the Unseelie Court of Frost.md",
+    "Natsiya Svaroga/Natsiya Svaroga, the Seelie Nation of the Dawn.md",
+    "Dvor Ineya/Religion/Church of Repose.md",
+    "Dvor Ineya/Government/The Ledyanoy Veche.md",
+    "Dvor Ineya/Religion/Lady of Dormition.md",
+    "Dvor Ineya/Cities of Note/Ozerograd (City).md",
+    "Dvor Ineya/Cities of Note/Kholodhnograd (City).md",
+    "Dvor Ineya/Oblasts/Kholodhnograd (Oblast).md",
+    "Dvor Ineya/Oblasts/Ozerograd (Oblast).md",
+    "Dvor Ineya/Cities of Note/Zmei.md",
+    "Dvor Ineya/Oblasts/Morskaya Gavan.md",
+    "Dvor Ineya/Organizations/Lightkeepers.md",
+    "Dvor Ineya/Smertkristall.md",
+    "Dvor Ineya/Figures of Note/Oleg Zamyrovych Feofan.md",
+    "Dvor Ineya/History/Morana.md",
+    "Dvor Ineya/History/Calamity.md",
+    "Dvor Ineya/Government/The Ecclesiarchy.md",
+    "Dvor Ineya/Frostfaeries.md",
+    "Dvor Ineya/Oblasts/Oblast e.md",
+    "Dvor Ineya/Oblasts/Oblast f.md",
+    "Dvor Ineya/Organizations/Tsaritsyna Shchuka.md",
+    "Questions to Answer.md",
+    "Natsiya Svaroga/Firebird.md",
+    "Dvor Ineya/Cities of Note/Kitezhnograd.md",
+    "Dvor Ineya/Oblasts/Belovodye.md",
+    "Dvor Ineya/Cities of Note/Zolnyy.md",
+    "Dvor Ineya/Organizations",
+    "Dvor Ineya/Important Locations",
+    "Dvor Ineya/Figures of Note",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Assets",
+    "Natsiya Svaroga",
+    "Dvor Ineya/Religion",
+    "Dvor Ineya/History",
+    "Dvor Ineya/Government",
+    "Dvor Ineya/Cities of Note",
+    "Dvor Ineya/Oblasts"
+  ]
+}

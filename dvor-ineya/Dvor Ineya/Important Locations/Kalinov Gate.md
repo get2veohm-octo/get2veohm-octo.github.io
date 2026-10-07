@@ -1,0 +1,1 @@
+Pass through mountains at nav krai's border, guarded by lightkeepers. First line of defense

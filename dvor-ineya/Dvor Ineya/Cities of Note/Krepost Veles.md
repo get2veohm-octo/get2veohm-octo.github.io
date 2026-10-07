@@ -1,0 +1,1 @@
+While it is considered the capital of [[Nav Krai]], it functions more as an outpost or fortress. Like the rest of the region, it is home to a rather limited civilian populace.

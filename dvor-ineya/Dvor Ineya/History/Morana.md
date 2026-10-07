@@ -1,0 +1,1 @@
+The first envoy of the [[Lady of Dormition]]--and consequently first [[Lunnaya Tsaritsa]]--who brought order to the warring and chaotic factions of [[Frostfaeries]] who existed in ancient times.

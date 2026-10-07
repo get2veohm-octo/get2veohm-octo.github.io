@@ -1,0 +1,1 @@
+Rogue lightkeeper channeled power through [[Smertkristall]] (Feofan knows them)
